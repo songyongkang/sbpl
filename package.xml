@@ -11,11 +11,11 @@
 
   <author>Search-Based Planning Lab</author>
 
-  <buildtool_depend>cmake</buildtool_depend>
+  <buildtool_depend>catkin</buildtool_depend>
 
-  <build_depend>cmake</build_depend>
+  <!--<build_depend>cmake</build_depend>-->
 
-  <export>
+  <!--<export>
     <build_type>cmake</build_type>
-  </export>
+  </export>-->
 </package>
